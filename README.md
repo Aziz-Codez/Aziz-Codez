@@ -29,6 +29,6 @@
 
 ## Let's Connect!
 
-📫 I'm always eager to collaborate and learn from fellow developers. Feel free to reach out if you have any questions, want to collaborate, or just want to chat about all things tech. Connect with me on [LinkedIn]((https://www.linkedin.com/in/abduaziz-ali-osman-409801167/)) and follow me on [instagram](https://www.instagram.com/azeez.4real/).
+📫 I'm always eager to collaborate and learn from fellow developers. Feel free to reach out if you have any questions, want to collaborate, or just want to chat about all things tech. Connect with me on [LinkedIn](https://www.linkedin.com/in/abduaziz-ali-osman-409801167/) and follow me on [instagram](https://www.instagram.com/azeez.4real/).
 
 👁️‍🗨️ Thank you for visiting my GitHub profile. Your feedback and suggestions are greatly appreciated. Happy coding! 🚀
