@@ -42,17 +42,16 @@ I'm Abduaziz Ali Osman, a Full-Stack Developer with a passion for crafting web a
 
 - 😄 **Nickname**: Friends call me Aziz.
 - ☕ **Coffee lover**: Caffeine is my fuel, especially for those late-night coding sprints.
-- 🎮 **Gaming fan**: When I’m not coding, I’m probably in a gaming session.
-- 🌍 **Location**: Based in [Your Location], but love connecting with people worldwide!
+- 🎮 **Gaming fan**: Fifa Expert and Chess
+- 🌍 **Location**: Based in Turkey, but love connecting with people worldwide!
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/abduaziz-ali-osman-409801167/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duffali16@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername](https://www.linkedin.com/in/abduaziz-ali-osman-409801167/))
 
 ---
 
